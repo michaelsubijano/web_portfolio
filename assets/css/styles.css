@@ -1389,11 +1389,12 @@ body {
 */
 
 #portfolioDesc p {
-  color: #917C78;
+  color: #635755;
   font-size: 2em;
   line-height: 1.2em;
   font-weight:bold;
   padding: 0 5%; 
+  font-family: 'Alegreya', serif;
 }
 
 /*
